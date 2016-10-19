@@ -1,7 +1,0 @@
-language: java
-sudo: required
-warnings_are_errors: true
-r_binary_packages:
-  - dplyr
-  - httr
-  - jsonlite
